@@ -1,0 +1,40 @@
+Room1
+Bedroom
+2 0 3 0
+You suddenly wake up from your sleep. A weird nightmare, you say to yourself. As you come to your senses, you find yourself drenched in your own sweat. The fan isn't moving. There seems to be no electricity. The window to your left is open, but the room feels so stuffed. It's 10 past 2 on the wall clock. As you begin to sit up, you look around the room. The room is soaked in darkness. A flickering dim light coming from the window illuminates the room slightly, only to make it more mysterious. The door stands in front of you, closed. You look at the open window again. You could do well with some air right now.
+Room2
+Window
+0 0 3 0
+You stand in front of the window and look outside. Two roadside lamps shed light on the road that connects the house to the main road. The faulty lamps are what is causing the glimmering. You look to the trees. The trees are standing still, not a sign of wind anywhere. Suddenly, you feel a weird sensation at your back, as if someone is looking at you directly from behind. You quickly turn around. There does not seem to be anyone in the room. But, to your surprise, the door at the front is now open. "Is someone inside the house?" You think to yourself. You decide to check it for yourself.
+Room3
+Dining Hall
+8 4 0 0
+You open the door and come out, standing in the dining room. Your eyes are starting to adjust to the darkness. There is a small dining table with three chairs occupying the center of the room. It is only you and your parents in the house, so there is no need for much unnecessary space. At the far end of the room is the kitchen counter. The room wears a gloomy darkness, its silence disturbed by the constant clicking of the wall clock. To your left is the door to the basement. And to the right is the corridor that connects your parents bedroom and the bathroom.
+Room4
+Corridor
+0 0 6 5
+You stand in the long, narrow corridor of the house. Its walls are decorated with framed pictures. Some from your childhood, some of your parents and other family members. These photos are a nice assurance of the care you receive, the love you provide. Ahead of you is the room to your parents, and on the other side is the bathroom.
+Room5
+Bathroom
+0 9 7 0
+You come to the bathroom. The darkness is thicker here. The very air feels dreaded. You fumble around, looking for the cabinet. You find it shortly. It is not that hard to navigate, since you are familiar with the placement of everything. You grab what seems to be the torchlight. And it is so. You push the button, and a gloomy light washes away the dullness of the room. The light is low on power. It could go off any moment. You can finally check out the basement. As you get out of the room, you hear a slight creaking. It's coming from the bathtub to your right, covered in drapes. Ahead of you is the door to the corridor.
+Room6
+Master Bedroom
+0 0 0 5
+You slowly walk up to your parents' room. The door is locked from the inside. They seem to be sleeping. You don't want to disturb them without a serious issue. You think of checking out the bathroom at your back.
+Room7
+EndRoom
+0 0 0 0
+You walk up to the door of the basement. It opens up with a creaking sound on your face. You shine the light on the stair. The dim light does not fully cover the bottomless pit. THe voices still call at you. You walk down the stairs, unprotected. Your only strength is a nearly dead torchlight. As you enter the basement, a damp smell hits you quickly. The room smells of rot. You look around. Old shelves, cardboard boxes. Nothing unusual. But something is off. Maybe it is not a good idea to be here afterall. Maybe you should go back to your room. You turn to face the stair. The door quickly slams shut. You feel like a trapped mouse. You frantically look around, trying to find something to help you escape this madness. There exists no such thing. And on the verge of your insanity, your torchlight dies on you. You give up on everything, and just sit down on the floor. You feel defeated. IT is now just you and the everlasting darkness. But... but you feel as if you are being watched. A number of eyes, looking down on you. Observing your very existence. You are not alone. YOU... ARE... NOT... ALONE...	
+Room8
+FaultBasement
+0 4 0 1
+You open the door to the basement. The stair leads down to an abyssal pit. There is no point going down there without a light source. You remember a torchlight being there on the bathroom. You should get it first.
+Room9
+BathTub
+0 0 10 0
+You move the light towards the covered bathtub. In it's dimmering light, you are certain you see a shadow figure. Suddenly you feel a chilling sensation running down your spine. You look around the bathroom. There is not a single thing that can be used as a weapon of some sort. You walk slowly to the bathtub. The shadowy figure is still there, waiting for you. You jump ahead quickly, removing the drape in an instant. There is no one there. But you are sure you saw something. You decide to wake up your parents.
+Room10
+SecondParent
+7 0 0 0
+You run to your parents' room. The door is still locked. You try to turn the knob, but it is locked from the inside. You hit the door in quick aggression, shouting out to your parents, in the hope that they will listen to you and wake up. But all in vein. You continue to bang on the door. Just then you hear a whispering voice. It calls out to you. You stop whatever you were doing. Your head feels numb. You can not think straight. The calling is coming from the basement. You decide to finally check out the basement, to the left of you on the dining room. 
