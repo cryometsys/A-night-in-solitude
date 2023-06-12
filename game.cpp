@@ -35,10 +35,6 @@ void Game::startGame() {
     playGame(rooms);
 }
 
-void Game::getDesc(Room& obj) {
-    obj.tellRoom();
-}
-
 void Game::playGame(std::vector<Room>& rooms) {
     int r = 0;
     while(true) {
@@ -56,6 +52,8 @@ void Game::playGame(std::vector<Room>& rooms) {
         system("CLS");  
     }
 }
+
+void Game::getDesc(Room& obj) { obj.tellRoom(); }
 
 int Game::getDirinString(char a) {
     switch (a) {

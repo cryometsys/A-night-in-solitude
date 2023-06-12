@@ -34,7 +34,6 @@ std::string Room::getString(int a) {
 }
 
 void Room::tellRoom() {
-    // std::cout << roomName << "\n";
     for (int i = 0; i < roomDesc.size(); i++) {
         std::cout << roomDesc[i];
         Sleep(60);

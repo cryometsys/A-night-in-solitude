@@ -4,13 +4,13 @@
 #include "room.h"
 
 class Game {
-    public:
-        Game() = default;
-        void newGame();
-        void startGame();
-        void playGame(std::vector<Room>&);
-        int getDirinString(char);
-        void getDesc(Room&);
+public:
+    Game() = default;
+    void newGame();
+    void startGame();
+    void playGame(std::vector<Room>&);
+    int getDirinString(char);
+    void getDesc(Room&);
 };
 
 
